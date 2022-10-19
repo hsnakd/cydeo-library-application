@@ -19,7 +19,7 @@ import org.junit.runner.RunWith;
         features="src/test/recources/features",
         glue="com/cydeo/library/step_definations",
         dryRun=true,
-        tags=""
+        tags="@smoke"
 
 )
 
